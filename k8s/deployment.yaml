@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: my-app
-        image: chaimagharbi/my-app:latest
+        image: chaimagharbi/my-app:1764880795
         ports:
         - containerPort: 80
